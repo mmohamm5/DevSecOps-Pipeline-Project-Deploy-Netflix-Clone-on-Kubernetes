@@ -60,7 +60,7 @@
 
 It will show an error cause you need API key
 
-**Step 4: Get the API Key:**
+**Step 4: Get the API Keys:**
 
 - Open a web browser and navigate to TMDB (The Movie Database) website.
 - Click on "Login" and create an account.
